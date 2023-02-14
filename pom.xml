@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.netology</groupId>
-  <artifactId>MultyModulsApp</artifactId>
+  <artifactId>MultyModulesApp</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>MultyModulsApp</name>
+  <name>MultyModulesApp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.netology.ru</url>
 
